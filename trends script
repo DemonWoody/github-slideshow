@@ -1,0 +1,1 @@
+leftTimeHand = Now() - 29 - Time()
